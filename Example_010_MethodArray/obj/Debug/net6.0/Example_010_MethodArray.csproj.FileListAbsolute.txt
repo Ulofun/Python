@@ -1,0 +1,15 @@
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\bin\Debug\net6.0\Example_010_MethodArray.exe
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\bin\Debug\net6.0\Example_010_MethodArray.deps.json
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\bin\Debug\net6.0\Example_010_MethodArray.runtimeconfig.json
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\bin\Debug\net6.0\Example_010_MethodArray.dll
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\bin\Debug\net6.0\Example_010_MethodArray.pdb
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.csproj.AssemblyReference.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.AssemblyInfo.cs
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.dll
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\obj\Debug\net6.0\refint\Example_010_MethodArray.dll
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.pdb
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\obj\Debug\net6.0\Example_010_MethodArray.genruntimeconfig.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_010_MethodArray\obj\Debug\net6.0\ref\Example_010_MethodArray.dll
