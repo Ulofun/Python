@@ -1,0 +1,15 @@
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\bin\Debug\net6.0\Example_SEM_2_EX_3.exe
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\bin\Debug\net6.0\Example_SEM_2_EX_3.deps.json
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\bin\Debug\net6.0\Example_SEM_2_EX_3.runtimeconfig.json
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\bin\Debug\net6.0\Example_SEM_2_EX_3.dll
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\bin\Debug\net6.0\Example_SEM_2_EX_3.pdb
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\obj\Debug\net6.0\Example_SEM_2_EX_3.csproj.AssemblyReference.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\obj\Debug\net6.0\Example_SEM_2_EX_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\obj\Debug\net6.0\Example_SEM_2_EX_3.AssemblyInfoInputs.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\obj\Debug\net6.0\Example_SEM_2_EX_3.AssemblyInfo.cs
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\obj\Debug\net6.0\Example_SEM_2_EX_3.csproj.CoreCompileInputs.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\obj\Debug\net6.0\Example_SEM_2_EX_3.dll
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\obj\Debug\net6.0\refint\Example_SEM_2_EX_3.dll
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\obj\Debug\net6.0\Example_SEM_2_EX_3.pdb
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\obj\Debug\net6.0\Example_SEM_2_EX_3.genruntimeconfig.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_SEM_2_EX_3\obj\Debug\net6.0\ref\Example_SEM_2_EX_3.dll
