@@ -1,21 +1,16 @@
-﻿Console.WriteLine("Введите первое число: ");
-int number1 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите второе число: ");
-int number2 = Convert.ToInt32(Console.ReadLine());
-int maxnumber = 0;
+﻿//Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 
-if (number1 > number2)
+Console.WriteLine("Введите цифру дня недели (от 1 до 7): ");
+int number = Convert.ToInt32(Console.ReadLine());
+if(number == 1|| number ==2 || number == 3|| number == 4|| number == 5)
 {
-    maxnumber = number1;
-    Console.Write("Большее число = " + maxnumber);
+    Console.WriteLine("Рабочий день");
 }
-
-else if (number1 == number2)
+else if(number == 6 || number == 7)
 {
-    Console.Write("Числа равны ");
+    Console.WriteLine("Выходной день");
 }
-else 
+else
 {
-    maxnumber = number2;
-    Console.Write("Большее число =" + maxnumber);
+    Console.WriteLine("Вы ввели неверную цифру (необходимо ввести от 1 до 7!)");
 }

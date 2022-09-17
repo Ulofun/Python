@@ -1,0 +1,15 @@
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\bin\Debug\net6.0\Example_Stepen'.exe
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\bin\Debug\net6.0\Example_Stepen'.deps.json
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\bin\Debug\net6.0\Example_Stepen'.runtimeconfig.json
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\bin\Debug\net6.0\Example_Stepen'.dll
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\bin\Debug\net6.0\Example_Stepen'.pdb
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\obj\Debug\net6.0\Example_Stepen'.csproj.AssemblyReference.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\obj\Debug\net6.0\Example_Stepen'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\obj\Debug\net6.0\Example_Stepen'.AssemblyInfoInputs.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\obj\Debug\net6.0\Example_Stepen'.AssemblyInfo.cs
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\obj\Debug\net6.0\Example_Stepen'.csproj.CoreCompileInputs.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\obj\Debug\net6.0\Example_Stepen'.dll
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\obj\Debug\net6.0\refint\Example_Stepen'.dll
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\obj\Debug\net6.0\Example_Stepen'.pdb
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\obj\Debug\net6.0\Example_Stepen'.genruntimeconfig.cache
+C:\Users\k\Desktop\Example_GB_C#\Example_Stepen'\obj\Debug\net6.0\ref\Example_Stepen'.dll

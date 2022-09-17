@@ -1,16 +1,34 @@
-﻿//Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+﻿/// Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 
-Console.WriteLine("Введите цифру дня недели (от 1 до 7): ");
-int number = Convert.ToInt32(Console.ReadLine());
-if(number == 1|| number ==2 || number == 3|| number == 4|| number == 5)
+//Console.WriteLine("Введите трехзначное число: ");
+//int number = Convert.ToInt32(Console.ReadLine());
+//if(number >99 && number < 1000)
+//{
+//    int result = (number % 100) / 10;
+//    Console.WriteLine("Вторая цифра данного числа равна: " + result);
+//}
+//else
+//{
+//    Console.WriteLine("Серега лох, введи трехзначное! ");
+//}
+
+
+
+
+
+
+int numfunction ( int num)
 {
-    Console.WriteLine("Рабочий день");
+    int x = num * num;
+    int result = x;
+    return result;
 }
-else if(number == 6 || number == 7)
+Console.WriteLine("Введите трехзначное число: ");
+int num = Convert.ToInt32(Console.ReadLine());
+int result = numfunction(num);
+if (num > 99 && num < 1000)
 {
-    Console.WriteLine("Выходной день");
+    Console.WriteLine("Результат равен " + result);
 }
 else
-{
-    Console.WriteLine("Вы ввели неверную цифру (необходимо ввести от 1 до 7!)");
-}
+Console.WriteLine("Ошибка, введите трехзначное число!!!");
